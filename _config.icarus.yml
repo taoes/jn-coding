@@ -408,6 +408,7 @@ providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: fonts.proxy.ustclug.org
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: fontawesome
+    gstatic: fonts-gstatic.proxy.ustclug.org
