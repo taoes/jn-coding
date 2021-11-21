@@ -4,7 +4,7 @@ menu:
   github: https://github.com/taoes
 
 rss: /atom.xml
-banner: https://pic.zhoutao123.com/lake.png
+banner: "/images/lake.png"
 
 # Content
 excerpt_link: 更多
