@@ -2,7 +2,12 @@
 layout: java
 title: 网络通信IO模型
 date: 2021-11-21 17:49:15
-tags: java,io,network,bio,nio
+tags: 
+    - java
+    - io
+    - network
+    - bio
+    - nio
 author: 枕上江南
 urlName: java_io_connect
 ---
