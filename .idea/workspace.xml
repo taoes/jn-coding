@@ -4,7 +4,6 @@
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.icarus.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.icarus.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +55,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1637487758783</updated>
       <workItem from="1637487760161" duration="583000" />
-      <workItem from="1637488608286" duration="8640000" />
+      <workItem from="1637488608286" duration="9026000" />
+      <workItem from="1637554543866" duration="26000" />
     </task>
     <servers />
   </component>
