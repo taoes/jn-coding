@@ -1,0 +1,41 @@
+# Header
+menu:
+  首页: /
+  目录: /category
+  归档: /archives
+  关于: /about
+rss: /atom.xml
+
+# Content
+excerpt_link: 更多
+fancybox: false
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+- links
+
+# Links
+links:
+  Aweew: https://www.aweew.com
+   
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins: 
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname: reqianduan
+
+# Baidu share
+baidushare: true
