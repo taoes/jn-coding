@@ -5,7 +5,6 @@ urlName: docker-build-opt
 tags: 
     - docker
     - 最佳实践
-cover: https://pic.zhoutao123.com/blog/docker-build-1.png
 ---
 
 Docker多阶段构建的特性是在17.05以后引入的新功能，旨在解决编入和构建逻辑复杂的问题，依次减少每一个图层。想象一下，你需要自动构建一个基于Maven或者基于NodeJS的项目，那么通过源码构建的时候Maven或者NPM 都会下载大量的依赖的问题，这些文件旨在构建的时候的时候有用，我们也仅仅是需要一个JAR文件或者NodeJS编译出来的文件!!! 
