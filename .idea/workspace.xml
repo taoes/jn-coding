@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/even" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" afterDir="false" />
