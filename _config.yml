@@ -1,8 +1,8 @@
-title: 枕上江南
+title: 枕上江南的站点
 subtitle: 凡心之所向,素履以往 生如逆旅,一苇以航!
 description: ''
 keywords: null
-author: 枕上江南
+author: 江南
 language: zh-CN
 timezone: ''
 url: https://www.zhoutao123.com
@@ -59,6 +59,6 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: landscape-plus
+theme: even
 deploy:
   type: ''

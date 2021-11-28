@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/images/mysql/link_transaction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/mysql/sub_transaction.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape-plus/source/css/_partial/header.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape-plus/source/css/_partial/header.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape-plus/source/css/_partial/highlight.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape-plus/source/css/_partial/highlight.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape-plus/source/css/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape-plus/source/css/style.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,7 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Tools/go-1.16.4" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/even" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -52,6 +64,7 @@
       <recent name="$PROJECT_DIR$/source/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images/mysql" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
