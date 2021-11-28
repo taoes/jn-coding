@@ -1,7 +1,8 @@
 ---
 title: InnoDB 的事务以及实现原理
-date: 2021-11-28 17:06:23
+date: 2020-10-04 19:04:18
 urlName: innodb_transaction
+categories: MySQL
 tags:
     - JVM
 ---

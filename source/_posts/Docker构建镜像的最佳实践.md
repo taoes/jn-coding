@@ -1,7 +1,8 @@
 ---
 title: Docker构建镜像的最佳实践
-date: 2021-11-24 08:42:20
+date: 2021-10-04 23:42:20
 urlName: docker-build-opt
+categories: Docker
 tags: 
     - docker
     - 最佳实践

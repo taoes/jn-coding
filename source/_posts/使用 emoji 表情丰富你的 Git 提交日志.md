@@ -1,7 +1,8 @@
 ---
 title: 使用 emoji 表情丰富你的 Git 提交日志
-date: 2021-11-28 17:00:38
+date: 2021-07-28 17:00:38
 urlName: git_emoji_commit
+categories: Git
 tags:
     - git
     - emoji
