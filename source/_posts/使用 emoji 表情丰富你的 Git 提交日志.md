@@ -6,7 +6,6 @@ tags:
     - git
     - emoji
 ---
-Git
 
 在使用emoji 提交日志的时候推荐信息遵循以下格式：
 
@@ -21,7 +20,8 @@ Git
 | emoji | emoji 代码 | commit 说明 |
 | --- | --- | --- |
 | 🎉(庆祝) | `:tada:` | 初次提交 |
-| 🆕(全新)✨ (新特性) | `:new:``:sparkles:`  | 引入新功能 |
+| 🆕(全新) | `:new:` `:sparkles:`  | 引入新功能 |
+| ✨ (新特性) | `:new:` `:sparkles:`  | 引入新功能 |
 | 🔖(书签) | `:bookmark:` | 发行/版本标签 |
 | 🐛(bug) | `:bug:` | 修复 bug |
 | 🚑(急救车) | `:ambulance:` | 重要补丁 |
@@ -34,11 +34,13 @@ Git
 | ➖(减号) | `:heavy_minus_sign:` | 减少一个依赖 |
 | ⬆️(上升箭头) | `:arrow_up:` | 升级依赖 |
 | ⬇️(下降箭头) | `:arrow_down:` | 降级依赖 |
-| ⚡(闪电)🐎(赛马) | `:zap:``:racehorse:` | 提升性能 |
+| ⚡(闪电)| `:zap:``:racehorse:` | 提升性能 |
+| 🐎(赛马) | `:zap:``:racehorse:` | 提升性能 |
 | 📈(上升趋势图) | `:chart_with_upwards_trend:` | 添加分析或跟踪代码 |
 | 🚀(火箭) | `:rocket:` | 部署功能 |
 | ✅(白色复选框) | `:white_check_mark:` | 增加测试 |
-| 📝(备忘录)📖(书) | `:memo:``:book:` | 撰写文档 |
+| 📝(备忘录) | `:memo:``:book:` | 撰写文档 |
+| 📖(书) | `:memo:``:book:` | 撰写文档 |
 | 🔨(锤子) | `:hammer:` | 重大重构 |
 | 🎨(调色板) | `:art:` | 改进代码结构/代码格式 |
 | 🔥(火焰) | `:fire:` | 移除代码或文件 |
@@ -55,9 +57,6 @@ Git
 | 🏁(旗帜) | `:checkered_flag:` | 修复 Windows 下的问题 |
 | 🔀(交叉箭头) | `:twisted_rightwards_arrows:` | 分支合并 |
 
-<a name="ySdxc"></a>
-### 
-<a name="dszXv"></a>
 ### 如何在命令行中显示 emoji
 
 默认情况下，在命令行中并不会显示出 emoji, 仅显示 emoji 代码。不过可以使用 [emojify](https://github.com/mrowa44/emojify) 使得在命令行也可显示 emoji, 它是一个 shell 脚本，安装与使用都很简单 下载此文件 [https://raw.githubusercontent.com/mrowa44/emojify/master/emojify](https://raw.githubusercontent.com/mrowa44/emojify/master/emojify), 将Shell脚本放在你的PATH 环境中，并赋予可执行权限，然后使用如下命令测试

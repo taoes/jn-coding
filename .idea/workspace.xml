@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/even" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/layout/_partial/footer.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/使用 emoji 表情丰富你的 Git 提交日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/使用 emoji 表情丰富你的 Git 提交日志.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/经典架构设计的分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/经典架构设计的分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/网络通信IO模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/网络通信IO模型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/evens/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/evens/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/evens/source/css/_custom/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/evens/source/css/_custom/_custom.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,7 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>

@@ -2,13 +2,14 @@
 layout: java
 title: 网络通信IO模型
 date: 2021-11-21 17:49:15
-tags: 
+tag: 
     - java
     - io
     - network
     - bio
     - nio
 author: 枕上江南
+categories: IO
 urlName: java_io_connect
 ---
 
@@ -22,7 +23,7 @@ urlName: java_io_connect
 ## BIO 阻塞IO
 
 <br />BIO操作在每次接收到连接请求的时候都会进行新的线程的创建，而线程则又是系统中非常珍贵的资源，因此BIO适合连接数很少的应用程序，代码简单易懂。其基础架构模型如下<br />
-<img src="https://pic.zhoutao123.com/bio.png"  style="width:600px" alt="BIO"/>
+![BIO模式通讯处理模型](https://pic.zhoutao123.com/bio.png)
 <br />
 
 ```java
@@ -78,9 +79,8 @@ static class SocketTask implements Runnable {
       e.printStackTrace();
     }
 ```
-<a name="1f38f0ef"></a>
-## 
-<a name="ABjCU"></a>
+
+
 ##  NIO 非阻塞IO
 
 <br />因为BIO的性能问题，从Java1.4 开始 JDK提供了NIO模型，**NIO是一种同步非阻塞的IO操作模型, ****在Linux操作系统中NIO基于Epoll模型实现高效的IO操作。**著名的网络IO编程框架Netty底层的实现就是依赖于NIO。<br />
@@ -100,7 +100,8 @@ static class SocketTask implements Runnable {
 
 > 对于Windows操作系统而言，JavaNIO使用的线程模式是闭源的 win2sock, epoll 是 Linux 专属的线程模型
 
-<img src="https://pic.zhoutao123.com/nio.png"  style="width:600px" alt="NIO"/>
+
+![NIO模式通讯处理模型](https://pic.zhoutao123.com/nio.png)
 
 
 下面的代码展示了NIO的基础架构，在新的连接创立后，将channel添加集合中，每次需要遍历所有的连接即可，解决了BIO每次都需要创建新的连接的线程的问题，但此架构并没有解决大量请求中只有一部分有数据传输的场景。读者可以想象一下，有10W个连接，但是仅仅只有10个连接传输数据，那么此模型的代码需要遍历10W个连接，这可能就会造成有数据传输的连接的性能问题。
