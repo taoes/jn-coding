@@ -62,3 +62,7 @@ ignore: null
 theme: evens
 deploy:
   type: ''
+sitemap:
+  path: /seo/sitemap.xml
+baidusitemap:
+  path: /seo/baidu-sitemap.xml

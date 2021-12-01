@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/images/jvm/exception_byte_code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/jvm/exception_tables.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/jvm/exception_tables_type.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Docker构建镜像的最佳实践.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker构建镜像的最佳实践.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/InnoDB 的事务以及实现原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/InnoDB 的事务以及实现原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/人是怎么废掉的.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/人是怎么废掉的.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/使用 emoji 表情丰富你的 Git 提交日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/使用 emoji 表情丰富你的 Git 提交日志.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/对NPE的思考与防范.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/对NPE的思考与防范.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/延时任务的最佳实践.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/延时任务的最佳实践.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/现代化的反射-方法句柄.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/现代化的反射-方法句柄.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/秒杀系统的架构设计.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/秒杀系统的架构设计.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/经典架构设计的分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/经典架构设计的分析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/网络通信IO模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/网络通信IO模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/聊一聊系统架构中的负载均衡.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/聊一聊系统架构中的负载均衡.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/evens/layout/_macro/archive.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/evens/layout/_macro/archive.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +70,7 @@
       <workItem from="1637487760161" duration="583000" />
       <workItem from="1637488608286" duration="9026000" />
       <workItem from="1637554543866" duration="26000" />
+      <workItem from="1638334261222" duration="205000" />
     </task>
     <servers />
   </component>
