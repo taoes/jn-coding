@@ -6,7 +6,7 @@ author: 江南
 language: zh-CN
 timezone: ''
 url: https://www.zhoutao123.com
-permalink: /article/:urlName.html
+permalink: article/:urlName.html
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
@@ -62,6 +62,8 @@ ignore: null
 theme: evens
 deploy:
   type: ''
+
+#  SEO 配置
 sitemap:
   path: /seo/sitemap.xml
 baidusitemap:
