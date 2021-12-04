@@ -1,6 +1,6 @@
 ---
-title: SimpleDocker
-date: 2020-10-04 15:20:12
+title: 开源项目之 SimpleDocker 
+date: 2021-12-04 15:20:12
 urlName: simple-docker
 categories: 开源项目
 tags:
@@ -11,6 +11,7 @@ Docker是目前一种非常主流的容器化方案，支持非常多的特性�
 
 <p style='color:red'>目前项目处于重构期间,新版本将使用新的技术栈构建，V1版本暂时停止更新，欢迎大家提交Issue</p>
 
+
 <!--more-->
 
 
@@ -18,6 +19,7 @@ Docker是目前一种非常主流的容器化方案，支持非常多的特性�
 
 **个人开发维护不易，麻烦给个 Star ✨ 鼓励一下作者,您的鼓励是我最大的动力 😛！！！**
 
+> 以下内容均为Beta版本文档，不再使用重构版本，敬请知晓
 
 ## 背景
 
@@ -27,12 +29,11 @@ Docker是目前一种非常主流的容器化方案，支持非常多的特性�
 > Tip: 您可以在Issues中提出需求和您发现的bug！[需求 & BUG 管理](https://github.com/taoes/SimpleDocker/issues)
 
 ## 演示网站
-1. 演示环境 [http://81.69.98.83:7000/#/](http://81.69.98.83:7000/#/)
+1. 演示环境 [http://81.69.98.83:3364/#/](http://81.69.98.83:3364/#/)
 2. 账号: admin 密码: 123456
 3. 演示环境，请勿删除/停止/暂停 容器，否则可能造成服务异常
 4. 如果演示环境无法登录或者无法使用，请及时创建Issue联系我
-
-
+5. 重构期间，演示环境将部署新的版本，无法使用以前的功能，敬请谅解！
 
 ### 🎉 目前支持特性
 
@@ -58,10 +59,6 @@ Docker是目前一种非常主流的容器化方案，支持非常多的特性�
 2. 多Docker管理 ✅
 3. DockerCompose 镜像编排管理(计划中)
 4. DockerSwarm 集群管理(计划中)
-
-### 📔 更新记录
-
-[SimpleDocker 更新记录](./doc/update.md)
 
 ## 应用安装
 
@@ -133,37 +130,37 @@ yarn install && yarn server
 ## 预览
 
 + 主页
-  ![Docker 信息](./img/home.jpg)
+  ![Docker 信息](https://pic.zhoutao123.com/img/home.jpg)
 
 + Docker 信息
-  ![Docker 信息](./img/info.png)
+  ![Docker 信息](https://pic.zhoutao123.com/img/info.png)
 
 + Image 信息
-  ![Image 信息](./img/image.png)
+  ![Image 信息](https://pic.zhoutao123.com/img/image.png)
 
 + 运行新的容器
-  ![Image 信息](./img/runContainer.png)
+  ![Image 信息](https://pic.zhoutao123.com/img/runContainer.png)
 
 + Container 信息
-  ![Container 信息](./img/container.png)
+  ![Container 信息](https://pic.zhoutao123.com/img/container.png)
 
 + 容器终端在线管理
-  ![终端管理](./img/terminal.png)
+  ![终端管理](https://pic.zhoutao123.com/img/terminal.png)
 
 + 容器文件在线管理
-  ![终端管理](./img/file.png)
+  ![终端管理](https://pic.zhoutao123.com/img/file.png)
 
 + 容器性能监控
-  ![终端监控](./img/monitor.png)
+  ![终端监控](https://pic.zhoutao123.com/img/monitor.png)
 
 + 容器日志以及日志下载
-  ![Image 信息](./img/containerLog.png)
+  ![Image 信息](https://pic.zhoutao123.com/img/containerLog.png)
 
 + Volume 信息
-  ![Volume 信息](./img/volume.png)
+  ![Volume 信息](https://pic.zhoutao123.com/img/volume.png)
 
 + Network 信息
-  ![Network 信息](./img/network.png)
+  ![Network 信息](https://pic.zhoutao123.com/img/network.png)
 
 ## Q & A
 
