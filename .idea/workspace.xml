@@ -4,7 +4,6 @@
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/SimpleDocker.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/SimpleDocker.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1637488608286" duration="9026000" />
       <workItem from="1637554543866" duration="26000" />
       <workItem from="1638334261222" duration="1410000" />
-      <workItem from="1638602290735" duration="636000" />
+      <workItem from="1638602290735" duration="1013000" />
     </task>
     <servers />
   </component>
