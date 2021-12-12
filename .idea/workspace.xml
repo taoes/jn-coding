@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfd4202-fd78-4018-9fdf-5cc826957f5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myblog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/SimpleDocker.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/SimpleDocker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/evens/source/css/_partial/_post/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/evens/source/css/_partial/_post/_content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/evens/source/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/evens/source/css/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1638334261222" duration="1410000" />
       <workItem from="1638602290735" duration="1013000" />
       <workItem from="1638709962783" duration="279000" />
-      <workItem from="1639278847568" duration="518000" />
+      <workItem from="1639278847568" duration="1838000" />
     </task>
     <servers />
   </component>
