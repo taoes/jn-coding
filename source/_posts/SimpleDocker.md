@@ -17,21 +17,18 @@ tags:
 
 </div>
 
+{% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 Docker是目前一种非常主流的容器化方案，支持非常多的特性，给开发者带来便利，但是 Docker 镜像以及容器管理复杂的参数让新手望而却步，基于此开发 SimpleDocker 控制面板，方便新手和相关的运维同学使用!!!
+{% raw %}</div></article>{% endraw %}
 
-<p style='color:red'>目前项目处于重构期间,新版本将使用新的技术栈构建，V1版本暂时停止更新，欢迎大家提交Issue</p>
+目前项目处于重构期间,新版本将使用新的技术栈构建，V1版本暂时停止更新，欢迎大家提交Issue
 
 
 <!--more-->
 
+SimpleDocker 是一个简单的Docker控制面板，致力于可以让用户更方便、更无障碍、更舒适的使用Docker，其界面简洁、操作便捷，功能强大，可以带来更好地运维体验。
 
-[![Taoes/SimpleDocker](https://gitee.com/taoes_admin/SimpleDocker/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/taoes_admin/SimpleDocker)
-
-
-
-**SimpleDocker** 是一个简单的Docker控制面板，致力于可以让用户更方便、更无障碍、更舒适的使用Docker，其界面简洁、操作便捷，功能强大，可以带来更好地运维体验。
-
-**个人开发维护不易，麻烦给个 Star ✨ 鼓励一下作者,您的鼓励是我最大的动力 😛！！！**
+个人开发维护不易，麻烦给个 Star ✨ 鼓励一下作者,您的鼓励是我最大的动力 😛！！！
 
 > 以下内容均为Beta版本文档，不再使用重构版本，敬请知晓
 
@@ -43,7 +40,7 @@ Docker是目前一种非常主流的容器化方案，支持非常多的特性�
 > Tip: 您可以在Issues中提出需求和您发现的bug！[需求 & BUG 管理](https://github.com/taoes/SimpleDocker/issues)
 
 ## 演示网站
-1. 演示环境 [http://81.69.98.83:3364/#/](http://81.69.98.83:3364/#/)
+1. 演示环境 [http://docker.zhoutao123.com](http://docker.zhoutao123.com)
 2. 账号: admin 密码: 123456
 3. 演示环境，请勿删除/停止/暂停 容器，否则可能造成服务异常
 4. 如果演示环境无法登录或者无法使用，请及时创建Issue联系我
