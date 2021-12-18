@@ -151,6 +151,9 @@ yarn install && yarn server
 
 + Image 信息
   ![Image 信息](https://pic.zhoutao123.com/img/image.png)
+  
++ 镜像拉取
+  ![镜像拉取](../images/sd/pull-image.png)
 
 + 运行新的容器
   ![Image 信息](https://pic.zhoutao123.com/img/runContainer.png)
