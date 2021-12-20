@@ -95,15 +95,14 @@ services:
       - redis
 ```   
 
-3. 执行下面的脚本，会自动拉取镜像并启动在 9091 端口
-
-```sh
+4. 执行下面的脚本，会自动拉取镜像并启动在 9091 端口
+```bash
 docker-compose up # 前台运行
 docker-compose up -d # 后台运行
 ```
 
-3. 浏览器访问 http://localhost:9091
-4. 默认账号: admin 默认密码: 123456
+5. 浏览器访问 http://localhost:9091
+6. 默认账号: admin 默认密码: 123456
 
 <span style='color:red'>如果使用了域名并且通过服务器进行反向代理，请配置反向代理服务器支持  WebSocket，否则终端功能可能无法使用</span>
 
