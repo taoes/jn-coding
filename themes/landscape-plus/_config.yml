@@ -1,15 +1,15 @@
 # Header
 menu:
-  首页: /
-  目录: /category
-  归档: /archives
+  站点首页: /
+  目录结果: /categories
+  文章归档: /archives
   关于: /about
 rss: /atom.xml
 
 # Content
 excerpt_link: 更多
-fancybox: false
-mathjax: false
+fancybox: true
+mathjax: true
 
 # Sidebar
 sidebar: right
