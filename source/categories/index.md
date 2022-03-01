@@ -1,10 +1,6 @@
 ---
 title: categories
-date: 2021-11-24 12:58:29
+date: 2022-03-01 13:57:20
 type: "categories"
-comments: false
-layout: categories
-
+layout: "categories"
 ---
-
-
