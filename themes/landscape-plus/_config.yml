@@ -1,8 +1,9 @@
 # Header
 menu:
-  站点首页: /
-  目录结果: /categories
-  文章归档: /archives
+  首页: /
+  目录: /categories
+  归档: /archives
+  标签: /tags
   关于: /about
 rss: /atom.xml
 
