@@ -25,6 +25,6 @@
     </span>
     <span class="author">{{ config.author }}</span>
     <br/>
-     Copyright © {{ current }} All rights reserved. | <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">皖ICP备17025334号-1</a>
+     Copyright © {{ current }} All rights reserved. | <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">皖ICP备17025334号</a>
   </span>
 </div>

@@ -8,7 +8,7 @@ $theme-color-config: to-lower-case(hexo-theme-config('color'));
 
 // Default theme color map
 $theme-color-map: (
-  'default': #c05b4d #f8f5ec,
+  'default': #c05b4d #FFF,
   'mint green': #16982B #f5f5f5,
   'cobalt blue': #0047AB #f0f2f5,
   'hot pink': #FF69B4 #f8f5f5,
@@ -53,10 +53,10 @@ $global-container-padding: 0 20px !default;
 $global-lineheight: 1.5 !default;
 
 // Font family of the site.
-$global-font-family:   iconfont,Monaco,LiSu,'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
+$global-font-family:  Courier,'Source Sans Pro', Arial, sans-serif !default;
 
 // Serif font family of the site.
-$global-serif-font-family:  iconfont,'source code pro',Monaco,LiSu,Athelas, STHeiti, Microsoft Yahei, serif !default;
+$global-serif-font-family:  Courier,'source code pro', serif !default;
 
 // Background color of the site.
 $global-background: $white !default;
@@ -190,7 +190,7 @@ $code-color: #c7254e !default;
 $code-font-size: 10px !default;
 
 // Font family of the code.
-$code-font-family:  Menlo,Monaco, Consolas,Consolas, monospace !default;
+$code-font-family:  Courier,Monaco, Consolas,Consolas, monospace !default;
 
 // Color of code highlight, solarized.
 $code-highlight-color: (

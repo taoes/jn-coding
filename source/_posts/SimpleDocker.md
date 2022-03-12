@@ -7,6 +7,16 @@ tags:
     - 开源项目
 ---
 
+{% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
+Docker是目前一种非常主流的容器化方案，支持非常多的特性，给开发者带来便利，但是 Docker 镜像以及容器管理复杂的参数让新手望而却步，基于此开发 SimpleDocker 控制面板，方便新手和相关的运维同学使用!!!
+{% raw %}</div></article>{% endraw %}
+
+目前项目处于重构期间,新版本将使用新的技术栈构建，V1版本暂时停止更新，欢迎大家提交Issue
+
+
+<!--more-->
+
+
 <div style="display: flex;">
 
 [![star](https://gitee.com/taoes_admin/SimpleDocker/badge/star.svg?theme=gvp)](https://gitee.com/taoes_admin/SimpleDocker/stargazers)
@@ -16,15 +26,6 @@ tags:
 [![fork](https://gitee.com/taoes_admin/SimpleDocker/badge/fork.svg?theme=gvp)](https://gitee.com/taoes_admin/SimpleDocker/members)
 
 </div>
-
-{% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-Docker是目前一种非常主流的容器化方案，支持非常多的特性，给开发者带来便利，但是 Docker 镜像以及容器管理复杂的参数让新手望而却步，基于此开发 SimpleDocker 控制面板，方便新手和相关的运维同学使用!!!
-{% raw %}</div></article>{% endraw %}
-
-目前项目处于重构期间,新版本将使用新的技术栈构建，V1版本暂时停止更新，欢迎大家提交Issue
-
-
-<!--more-->
 
 SimpleDocker 是一个简单的Docker控制面板，致力于可以让用户更方便、更无障碍、更舒适的使用Docker，其界面简洁、操作便捷，功能强大，可以带来更好地运维体验。
 

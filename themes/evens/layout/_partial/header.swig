@@ -1,5 +1,6 @@
 <div class="logo-wrapper">
-  <a href="{{ url_for('.') }}" class="logo">{{ config.title }}</a>
+  <a href="{{ url_for('.') }}" class="logo">{{ config.title }} </a>
+    <span style="font-style: italic">{{ config.subtitle }}</span>
 </div>
 
 <nav class="site-navbar">
