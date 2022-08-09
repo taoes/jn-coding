@@ -2762,6 +2762,13 @@ hexo-log@^2.0.0:
   dependencies:
     chalk "^4.0.0"
 
+hexo-log@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-log/-/hexo-log-3.1.0.tgz#f1c980a2136e2227b8a1bec26f9d9f99aad928ff"
+  integrity sha512-19h2g1xItVx0voyoAU91+bvrRDCLfIvw12GyCug52cz0MeA31o/j3pO0DKcUXYTG7VrYGtP1xDnmFZWiDL5lnw==
+  dependencies:
+    picocolors "^1.0.0"
+
 hexo-pagination@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
